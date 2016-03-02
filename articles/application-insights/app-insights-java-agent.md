@@ -12,7 +12,7 @@
 	ms.tgt_pltfrm="ibiza" 
 	ms.devlang="na" 
 	ms.topic="article" 
-	ms.date="11/03/2015" 
+	ms.date="03/02/2016" 
 	ms.author="awills"/>
  
 # Monitor dependencies, exceptions and execution times in Java web apps
