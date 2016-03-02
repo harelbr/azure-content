@@ -12,7 +12,7 @@
 	ms.tgt_pltfrm="ibiza" 
 	ms.devlang="na" 
 	ms.topic="article" 
-	ms.date="10/21/2015" 
+	ms.date="03/02/2016" 
 	ms.author="awills"/>
  
 # Troubleshooting and Q and A for Application Insights for Java
